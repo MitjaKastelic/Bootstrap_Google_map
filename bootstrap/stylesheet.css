@@ -1,0 +1,31 @@
+#map-container{ 
+    /*height: 400px; */
+    width: 1200px;
+    height: 50%; 
+    margin-left: 50px;
+}
+
+html{ 
+    height: 100% 
+}
+
+body{ 
+    height: 100%;
+    background-color:#CCC; 
+}
+
+#map-outer {  
+    height: 240px; 
+    padding: 20px; 
+    border: 5px solid #CCC; 
+    margin-bottom: 20px; 
+    background-color:#FFF; 
+}
+
+@media all and (max-width: 768px) {
+        #map-outer  { height: 350px }
+}
+
+#address{
+    
+}

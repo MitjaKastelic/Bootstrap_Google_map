@@ -1,0 +1,14 @@
+20.5.2014
+
+Spletni naslov: http://tutsme-webdesign.info/add-a-google-map-to-a-bootstrap-3-contact-page/
+
+Naslov: 1/3 ADD A GOOGLE MAP TO A BOOTSTRAP 3 CONTACT PAGE
+
+To create a basic Google Map we need to do several things:
+
+1. Insert a container for the map inside the body section
+2. Set height and width for the map container
+3. Add a script that will load the symbols and definitions for the Google Maps API
+4. Write a script defining a function with the location variable etc. and invoke that function after the window has finished loading
+
+
