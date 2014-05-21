@@ -1,8 +1,12 @@
 #map-container{ 
     /*height: 400px; */
-    width: 1200px;
     height: 50%; 
-    margin-left: 50px;
+    margin: auto;
+
+}
+
+#map-container .container{
+    position:relative;
 }
 
 html{ 
@@ -24,8 +28,4 @@ body{
 
 @media all and (max-width: 768px) {
         #map-outer  { height: 350px }
-}
-
-#address{
-    
 }
